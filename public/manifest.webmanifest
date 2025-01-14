@@ -1,0 +1,22 @@
+{
+    "name": "Günel Rəcəbova",
+    "short_name": "Günel Rəcəbova",
+    "description": "Günel Rəcəbova app",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#B0B1B8",
+    "icons": [
+      {
+        "src": "/icons/icon-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/icons/icon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
+  
